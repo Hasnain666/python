@@ -1,17 +1,4 @@
 # Python Programming For Beginners
-
-Welcome to this book on **"Learning Python In 100 Steps"**. 
-
-I am **Ranga Karanam**, and I have more than two decades of programming experience. 
-
-At **In28Minutes**, we ask ourselves one question every day: "how do we create awesome learning experiences?" 
-
-Whether we talk about big data, data analytics, or about doing simple things like scraping content from the web, Python is an awesome language for all that. Learning Python can be an awesome experience. 
-
-In this book, you will learn to write **structural** and **object** **oriented** code with Python. You'll learn a lot of important Python concepts, including **types**, **modules**, **collections** (or **data** **structures**), **exceptions**, and a wide variety of other stuff. You will be exposed to a lot of examples, exercises and tips. We will take up a lot of examples, and try and see how to write code for those in Python. 
-
-We would be using **Python 3**, with **PyCharm** as the IDE. 
-
 ## Table of Contents
 * [Chapter 01 - Getting Ready with Python](#chapter-01---getting-ready-with-python)
 * [Chapter 02 - Introduction To Python Programming](#chapter-02---introduction-to-python-programming)
